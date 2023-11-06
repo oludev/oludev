@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oludev
-- 👀 I’m interested in working with frontend developers
+- 👀 I’m interested in working with developers
 - 💞️ I’m looking to collaborate on mobile apps and web applications
 - 📫 How to reach me (hello@spacesux.com)
 
